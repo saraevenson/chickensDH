@@ -1,0 +1,49 @@
+body {
+  background-image:url(https://i.pinimg.com/originals/1e/d1/d2/1ed1d2670073d48e6d8f7b873da09519.png);
+}
+.heading {
+  border: 4px solid #55b3b1;
+  border-radius: 20px;
+  font-size: 25px;
+  color: #09015f;
+  font-family: Shadows Into Light;
+  background: #f8dc81;
+  text-align: center;
+}
+.oldetime {
+  font-size: 25px;
+  color: #af0069;
+  background: none;
+  font-family: Open Sans;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+.ChickenGallery {
+  display: columns;
+  column-count: 3;
+  column-gap: 6px;
+  column-rule-style: 10px solid;
+  column-rule-color: #af0069;
+  column-width: 400px;
+  column-fill: autp;
+}
+.ChickenGallery img {
+  width: 50%;
+  align-items: center;
+}
+.nouveau {
+  font-size: 25px;
+  background: #af0069;
+  font-family: Open Sans;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  text-align: center;
+}
+.a {
+  text-decoration-color: blue;
+  text-shadow: 10%;
+  text-transform: uppercase;
+}
